@@ -1,0 +1,45 @@
+body{
+    background-color: blueviolet;
+    background-image: url("unnamed.jpg");
+    background-position: top;
+    width: 900px;
+    margin: auto;
+    
+}
+#title, .cla2, .cla3{ 
+
+    color: black;
+}
+ .cla2, .tex {
+
+    font-style: verdana;
+ }
+
+ .cla3 {
+     font-size: 16px;
+     text-transform: capitalize;
+     text-align: center;
+}
+
+.post, .post2, #title, .cla2{
+    background-color: cornsilk;
+    padding: 10px 10px 5px 15px;
+    border: 6px dotted blueviolet;
+    margin: 4px;;
+
+}
+.lista{
+    list-style-type: "\1F44D"
+}
+
+.lista li a {
+    color: darkmagenta;
+}
+
+.pudim{
+    width: 100%;
+}
+
+#title{
+    text-align:  center;
+}
